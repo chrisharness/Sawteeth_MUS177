@@ -1,6 +1,6 @@
-# 
 
-## Sawteeth noise generator
+
+# Sawteeth noise generator
 
 ### Project and makefile included above
 
